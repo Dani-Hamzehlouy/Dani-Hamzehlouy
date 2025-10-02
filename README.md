@@ -20,6 +20,10 @@ My main goal right now is to build a practical set of scripts—one Python-based
 
 I'm always looking to learn and connect with others in the scripting and DevOps space.
 
-* **LinkedIn:** [https://www.linkedin.com/in/danial-hamzehlouy-525799248](https://www.linkedin.com/in/danial-hamzehlouy-525799248) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/danial-hamzehlouy-525799248" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50"/>
+  </a>
+</p>
 
 ---
